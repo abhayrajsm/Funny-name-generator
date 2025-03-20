@@ -1,0 +1,13 @@
+<%- include("partials/header.ejs")%>
+  <% if(locals.randomf && locals.randoml){%>
+    <h1>
+      <%= randomf %>
+        <%= randoml %>
+    </h1>
+    <%} else {%>
+      <h1>No need to overthink! Just tap the generate button and get your rocking band name instantly!</h1>
+      <% }%>
+        <form action="/submit" method="POST">
+          <input type="submit" value="Generate Name">
+        </form>S
+        <%- include("partials/footer.ejs")%>
