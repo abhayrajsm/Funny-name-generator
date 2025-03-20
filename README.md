@@ -65,10 +65,4 @@ Visit `http://localhost:3000` to use the app.
 ## 🤝 Contributing
 Feel free to fork this repository, add improvements, and submit a pull request!
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-**Author:** Your Name  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 🐦 [Twitter](https://twitter.com/yourhandle)
 
